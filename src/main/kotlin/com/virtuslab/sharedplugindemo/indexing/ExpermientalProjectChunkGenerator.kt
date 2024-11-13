@@ -61,6 +61,7 @@ private class ExperimentalProjectChunkGenerator : DumpSharedIndexCommand<DumpPro
       ProjectIndexChunk(project)
     }
 
+    // Create indexes for modules
     for (module in moduleNames) {
       val filterFun = { ifi: IndexableFilesIterator ->
         if (ifi is ModuleIndexableFilesIterator)
@@ -90,6 +91,7 @@ private class ExperimentalProjectChunkGenerator : DumpSharedIndexCommand<DumpPro
       }
     }
 
+    // Create index for sbt library
     val filterFun = { ifi: IndexableFilesIterator ->
       if (ifi is LibraryIndexableFilesIteratorImpl)
         (ifi as LibraryIndexableFilesIteratorImpl).getDebugName().contains("sbt: sbt-1.10.1")
