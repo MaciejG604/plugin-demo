@@ -1,0 +1,22 @@
+{ "shared-indexes": [
+ "/Users/mgajek/Projects/business/shared-plugin-demo/indexes/shared-index-project-IndexId-33baa81e07f3be4c.ijx",
+ "/Users/mgajek/Projects/business/shared-plugin-demo/indexes/shared-index-project-IndexId-4765e914cd6df5b8.ijx",
+ "/Users/mgajek/Projects/business/shared-plugin-demo/indexes/shared-index-project-IndexId-ab90404aecfa23e5.ijx",
+ "/Users/mgajek/Projects/business/shared-plugin-demo/indexes/shared-index-project-IndexId-377df55a44aa65f3.ijx",
+ "/Users/mgajek/Projects/business/shared-plugin-demo/indexes/shared-index-project-IndexId-dfadfd10c85db27c.ijx",
+ "/Users/mgajek/Projects/business/shared-plugin-demo/indexes/shared-index-project-IndexId-865b8711e86aebab.ijx",
+ "/Users/mgajek/Projects/business/shared-plugin-demo/indexes/shared-index-jdk-22.0.2-14b105b52a5ccf19.ijx",
+ "/Users/mgajek/Projects/business/shared-plugin-demo/indexes/shared-index-project-full_project-8dea1a18d7c6c5f6.ijx",
+ "/Users/mgajek/Projects/business/shared-plugin-demo/indexes/shared-index-project-IndexId-a0ce6a500c3b1490.ijx",
+ "/Users/mgajek/Projects/business/shared-plugin-demo/indexes/shared-index-project-IndexId-d999537cfd5a5d05.ijx",
+ "/Users/mgajek/Projects/business/shared-plugin-demo/indexes/shared-index-project-IndexId-47d2fdffa92b7776.ijx",
+ "/Users/mgajek/Projects/business/shared-plugin-demo/indexes/shared-index-project-IndexId-973fb665e5cce1ec.ijx",
+ "/Users/mgajek/Projects/business/shared-plugin-demo/indexes/shared-index-jars-a4f84562-95af8b59143e8de4.ijx",
+ "/Users/mgajek/Projects/business/shared-plugin-demo/indexes/shared-index-project-IndexId-6ef5cb5ea4013759.ijx",
+ "/Users/mgajek/Projects/business/shared-plugin-demo/indexes/shared-index-project-IndexId-e480948298301629.ijx",
+ "/Users/mgajek/Projects/business/shared-plugin-demo/indexes/shared-index-project-IndexId-10ed526360a7c73d.ijx",
+ "/Users/mgajek/Projects/business/shared-plugin-demo/indexes/shared-index-project-IndexId-d6ca5517324a2559.ijx",
+ "/Users/mgajek/Projects/business/shared-plugin-demo/indexes/shared-index-project-IndexId-660f38263c623dde.ijx",
+ "/Users/mgajek/Projects/business/shared-plugin-demo/indexes/shared-index-project-IndexId-6c818ba081ac30a2.ijx"
+  ]
+}
